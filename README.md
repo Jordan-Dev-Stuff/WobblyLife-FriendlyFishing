@@ -8,8 +8,8 @@ If you are specifically aiming to get the rarer fish you can also press the `CAP
 # Installation 
 1. Ensure you have .NET runtime 4.8 installed - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net48
 2. Download and run MelonLoader - https://melonwiki.xyz/#/?id=requirements
-3. Once MelonLoader is open, browsew for your wobble life .exe file and click install. In most cases, the wobbly life executable can be found at:
-   `"C:\Program Files (x86)\Steam\steamapps\common\Wobbly Life\Wobbly Life.exe"`
+3. Once MelonLoader is open, browse for your wobble life .exe file under the automated tab. In most cases, the wobbly life executable can be found at:
+   `"C:\Program Files (x86)\Steam\steamapps\common\Wobbly Life\Wobbly Life.exe"`. Support for this mod can currently only be garanteed with MelonLoader version 0.5.5 so it is reccomended to uncheck the "Latest" box and manually choose 0.5.5. Then hit the install button.
 4. Download this repository as a zip
 5. Place `FriendlyFishing.dll` in the newly created `Mods` folder in your wobbly life directory. In most cases this can be found at: `C:\Program Files (x86)\Steam\steamapps\common\Wobbly Life\Mods`
 6. Start the game and enjoy friendlier fishing!
