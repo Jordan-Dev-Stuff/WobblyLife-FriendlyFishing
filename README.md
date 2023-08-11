@@ -1,5 +1,5 @@
 # Friendly Fishing Wobbly Life Mod
-This is a simple mod to make collecting all of the fish in wobbly life much easier. The existing fishing system has a very low change to spawn purple rare fish and green uncommen fish and it can make completing the fishin acheivment feel tedious, frustrating, and overall un-fun.
+This is a simple mod to make collecting all of the fish in wobbly life much easier. The existing fishing system has a very low chance to spawn purple rare fish and green uncommen fish and it can make completing the "Marine Master" fishing acheivment feel tedious, frustrating, and overall un-fun.
 
 This mod changes that by making the rates at which the rare and uncommon fish spawn a lot "friendlier". After this mod has been installed, the default rarities of all fish will change so that junk fish no longer appear, and the common, uncommon, and rare fish all appear at the same rate.
 
